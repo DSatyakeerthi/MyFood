@@ -136,7 +136,7 @@
                 gap:10px;
             }
             .readnow-button {
-                bottom:40px;
+                bottom:30px;
                 font-size: 9px;
                 padding-top: 6px;
                 padding-bottom: 6px;
@@ -149,7 +149,7 @@
 
         @media(min-width: 1040px) and (max-width:1080px){
             .brownie-img{
-                width: 100;
+                width: 100%;
                 border-bottom-left-radius: 200px;
                 border-top-left-radius: 200px;
                 border-bottom-right-radius: 100px;
